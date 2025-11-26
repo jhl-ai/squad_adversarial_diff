@@ -1,0 +1,3 @@
+requests
+datasets==3.6.0
+termcolor
